@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. 
 
-<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.png" width="400">
+
 
 
 ## Background
