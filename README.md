@@ -22,12 +22,7 @@ To find better drugs for cancer for example, scientist have programs to calculat
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.jfif" width="400">
 
-Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. Although, 98% is a lot, but the 2% can still be detrimental and give "false" positive results. Therefor, it is still necessary to conduct further experiments in verifying the results. 
 
-<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.png" width="400">
-If this prediction can give a 100% probability, scientist can save money, time and other resources to make a research. As such, the idea of this project is to find a way to get the "extra" 2% accuracy in predicting protein folding and drug binding.
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 My own personal motivation on this topic is that I myself am I Biomedicine student whom would like to participate in cancer research labs.
 If scientist could get hold on an algorithm that predicts the structure of a protein just from the DNA template itself, it would save a lot of time and money. Also, it could aid the prediction on how a cancer drug functions on a molecular level and therefor could also aid in understanding how a cancer cell is formed and how it evolves to be malicious - unstable growth and metastasis.
 This problem in finding the accruate binding of a drug and the correct folding of a protein can take up to 5 to 10 years: using X-cristallography and different mouse models to visualize the binding of the drug and the structure of the targeted protein.
