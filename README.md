@@ -9,7 +9,7 @@ Final project for the Building AI course
 ## Summary
 
 Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. 
-
+To achieve this extra data - protein structures - are needed to get this augmented algorithm through A.I.
 
 
 
