@@ -8,6 +8,13 @@ Final project for the Building AI course
 
 ## Summary
 
+Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. Although, 98% is a lot, but the 2% can still be detrimental and give "false" positive results. Therefor, it is still necessary to conduct further experiments in verifying the results. 
+
+<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.png" width="400">
+If this prediction can give a 100% probability, scientist can save money, time and other resources to make a research. As such, the idea of this project is to find a way to get the "extra" 2% accuracy in predicting protein folding and drug binding.
+
+## Background
+
 Humans have approximately 25,000 individual genes. Each one of them encodes seperate proteins and that have a distinct functions. One of the functions are to maintain a stable cell growth, cell division, communcations between cells and maintaining cell integrity. These complex functions keep organisms alive and helps them to evolve.
 However, whenever these systems start malfunctioning, malicious cells can be formed: cancer, myeloma in Alzheimers, abnormal insulin production from pancreas etc. In order to combat these diseases, scientist have developed many novelties, such as drugs, to keep these malfunctioning cells at bay. 
 Albeit, medicine as such, has not reached to a point where most of the diseases can be eleminated. Also, bacteria have the capability to evolve antibiotic resistantance. Therefore, it is essential to find new drugs and antibiotics.
@@ -19,8 +26,6 @@ Aritifical intelligence has helped to predict the folding of the protein and the
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.png" width="400">
 If this prediction can give a 100% probability, scientist can save money, time and other resources to make a research. As such, the idea of this project is to find a way to get the "extra" 2% accuracy in predicting protein folding and drug binding.
-
-## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 My own personal motivation on this topic is that I myself am I Biomedicine student whom would like to participate in cancer research labs.
