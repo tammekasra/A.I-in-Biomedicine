@@ -38,7 +38,8 @@ Thirdly the DNA strand is but in the algorithm where the protein folding is pred
 Lastly, the folded protein simulation is used to find the appriopiate binding of a specific drug and is evaulated wheter it is a good candidate for theraupetic approach or not.
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
-The intial procedure can use the following code below (https://github.com/aqlaboratory/proteinnet)
+(https://github.com/aqlaboratory/proteinnet)
+The intial procedure can use the following code below 
 ```
 
 TF parser for ProteinNet Records.
