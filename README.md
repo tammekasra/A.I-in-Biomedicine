@@ -39,13 +39,9 @@ Lastly, the folded protein simulation is used to find the appriopiate binding of
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
 
-The intial procedure can use the following code below using python and data from ncbi.nlm.nih.gov
+The intial procedure can use with the following code below using python and data from ncbi.nlm.nih.gov
 
 (https://github.com/aqlaboratory/proteinnet)
-
-
-
-
 
 
 ## Data sources and AI methods
