@@ -72,3 +72,7 @@ If this project could be done (it would however take a really long time to achie
   
  The code for protein folding using pything - https://github.com/aqlaboratory/proteinnet
 LICENSE to distribute this code - https://github.com/aqlaboratory/proteinnet/blob/master/LICENSE
+ picture URLs - https://stock.adobe.com/uk/images/dna-replication-protein-synthesis-transcription-and-translation/195370333?prev_url=detail
+                https://www.researchgate.net/publication/305035217_Synthesis_and_pharmacological_evaluation_of_donepezil-based_agents_as_new_cholinesterasemonoamine_oxidase_inhibitors_for_the_potential_application_against_Alzheimer's_disease
+                https://www.creativebiomart.net/resource/principle-protocol-x-ray-crystallography-393.htm
+                
