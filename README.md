@@ -40,9 +40,8 @@ Lastly, the folded protein simulation is used to find the appriopiate binding of
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
 The intial procedure can use the following code below (https://github.com/aqlaboratory/proteinnet)
 ```
-"""
+
 TF parser for ProteinNet Records.
-"""
 
 __author__ = "Mohammed AlQuraishi"
 __copyright__ = "Copyright 2018, Harvard Medical School"
@@ -54,13 +53,13 @@ NUM_AAS = 20
 NUM_DIMENSIONS = 3
 
 def masking_matrix(mask, name=None):
-    """ Constructs a masking matrix to zero out pairwise distances due to missing residues or padding. 
+      Constructs a masking matrix to zero out pairwise distances due to missing residues or padding. 
     Args:
         mask: 0/1 vector indicating whether a position should be masked (0) or not (1)
     Returns:
         A square matrix with all 1s except for rows and cols whose corresponding indices in mask are set to 0.
         [MAX_SEQ_LENGTH, MAX_SEQ_LENGTH]
-    """
+    
 
     with tf.name_scope(name, 'masking_matrix', [mask]) as scope:
         mask = tf.convert_to_tensor(mask, name='mask')
@@ -72,7 +71,7 @@ def masking_matrix(mask, name=None):
         return matrix_mask
         
 def read_protein(filename_queue, max_length, num_evo_entries=21, name=None):
-    """ Reads and parses a ProteinNet TF Record. 
+        Reads and parses a ProteinNet TF Record. 
         Primary sequences are mapped onto 20-dimensional one-hot vectors.
         Evolutionary sequences are mapped onto num_evo_entries-dimensional real-valued vectors.
         Secondary structures are mapped onto ints indicating one of 8 class labels.
@@ -92,7 +91,7 @@ def read_protein(filename_queue, max_length, num_evo_entries=21, name=None):
         matrix_mask: Masking matrix to zero out pairwise distances in the masked regions
         pri_length: Length of amino acid sequence
         keep: True if primary length is less than or equal to max_length
-    """
+    
 
     with tf.name_scope(name, 'read_protein', []) as scope:
         reader = tf.TFRecordReader()
@@ -124,9 +123,8 @@ def read_protein(filename_queue, max_length, num_evo_entries=21, name=None):
 
         return id_, one_hot_primary, evolutionary, secondary, tertiary, ter_mask, pri_length, keep
 
-
-main()
 ```
+
 
 
 ## Data sources and AI methods
