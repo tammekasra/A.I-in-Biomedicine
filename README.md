@@ -47,7 +47,7 @@ The intial procedure can use with the following code below using python and data
 ## Data sources and AI methods
 
 If you need to use links, here's an example:
-The data that is used in these softwares and either be optained using X-cristallography (if the protein is that yet charaterised) or through the website [Twitter API](https://www.ncbi.nlm.nih.gov/protein?cmd=retrieve)
+The data that is used in these softwares and either be optained using X-cristallography (if the protein is that yet charaterised) or through the website?(https://www.ncbi.nlm.nih.gov/protein?cmd=retrieve)
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/x-cristallography.jfif" width="400">
 
