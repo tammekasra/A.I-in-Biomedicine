@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy using database from protein banks. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. 
+A.I has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy using database from protein banks. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. 
 
 
 
