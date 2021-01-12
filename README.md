@@ -12,7 +12,9 @@ Humans have approximately 25,000 individual genes. Each one of them encodes sepe
 However, whenever these systems start malfunctioning, malicious cells can be formed: cancer, myeloma in Alzheimers, abnormal insulin production from pancreas etc. In order to combat these diseases, scientist have developed many novelties, such as drugs, to keep these malfunctioning cells at bay. 
 Albeit, medicine as such, has not reached to a point where most of the diseases can be eleminated. Also, bacteria have the capability to evolve antibiotic resistantance. Therefore, it is essential to find new drugs and antibiotics.
 To find better drugs for cancer for example, scientist have programs to calculate if the "drug" binds to the protein causing the disease. To make the drug more efficient, it is vital to know the exact structure of the protein that needs to targeted and also that the drug itself only or mostly binds to it (if it targets other proteins it can kill the organism). Computer scientists have come up with revolutionary softwares that predicts the structure of the protein and the exact binding of the drug to the protein. However, these algorithms within the software are only 70-80% accurate and thus making new drugs unreliable for therapeutic approach - further and more expensive experiments are needed to be done to verify the binding and the structure of the proteins.
+<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.jfif" width="400">
 Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. Although, 98% is a lot, but the 2% can still be detrimental and give "false" positive results. Therefor, it is still necessary to conduct further experiments in verifying the results. 
+<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
 If this prediction can give a 100% probability, scientist can save money, time and other resources to make a research. As such, the idea of this project is to find a way to get the "extra" 2% accuracy in predicting protein folding and drug binding.
 
 ## Background
@@ -31,14 +33,9 @@ Firstly, a DNA sample should be taken from an individual (mouse, human etc) and 
 Secondly, a subset of a specific strand if found using various software. 
 Thirdly the DNA strand is but in the algorithm where the protein folding is predicted from the gene.
 Lastly, the folded protein simulation is used to find the appriopiate binding of a specific drug and is evaulated wheter it is a good candidate for theraupetic approach or not.
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.jfif)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 
+The intial procedure can use the following code below (it was taken wromg website - https://github.com/aqlaboratory/proteinnet): 
 ```
 """
 TF parser for ProteinNet Records.
@@ -141,17 +138,19 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The main challenged facing this project is to find all the possible protein and that the algorithm indeed can solve all the protein foldings; if there are around 25,000 different proteins, therefor it can be possible that the algorithm can predict around 24,999 proteins structure yet that 1 protein can be forever be solved incorrectly or that a drug can actually be good and solve everything but can be undiscovered due to the 0,001% error.
+Therefor, the biggest challenge is the assess and take into account even the smallest of errors.
+
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+If this project could be done (it would however take a really long time to achieve this) it can solve most of the problems within the field of medicine.
+
 
 
 ## Acknowledgments
   https://www.nature.com/articles/d41586-019-01357-6
+  
+  https://github.com/aqlaboratory/proteinnet
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+LICENSE to distribute this code - https://github.com/aqlaboratory/proteinnet/blob/master/LICENSE
