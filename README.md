@@ -17,7 +17,7 @@ To find better drugs for cancer for example, scientist have programs to calculat
 
 Aritifical intelligence has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy. This has given scientists a "boost" in drug discoveries making an augmented approaches in overall medicine. Although, 98% is a lot, but the 2% can still be detrimental and give "false" positive results. Therefor, it is still necessary to conduct further experiments in verifying the results. 
 
-<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
+<img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/folding.png" width="400">
 If this prediction can give a 100% probability, scientist can save money, time and other resources to make a research. As such, the idea of this project is to find a way to get the "extra" 2% accuracy in predicting protein folding and drug binding.
 
 ## Background
@@ -38,7 +38,7 @@ Thirdly the DNA strand is but in the algorithm where the protein folding is pred
 Lastly, the folded protein simulation is used to find the appriopiate binding of a specific drug and is evaulated wheter it is a good candidate for theraupetic approach or not.
 
 <img src="https://github.com/tammekasra/A.I-in-Biomedicine/blob/main/docking.png" width="400">
-The intial procedure can use the following code below (https://github.com/aqlaboratory/proteinnet): 
+The intial procedure can use the following code below (https://github.com/aqlaboratory/proteinnet)
 ```
 """
 TF parser for ProteinNet Records.
