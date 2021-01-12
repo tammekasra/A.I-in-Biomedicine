@@ -7,11 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Final project for the Building AI course
 
 ## Summary
-
 A.I has helped to predict the folding of the protein and the binding of the drugs to 98% accuracy using database from protein banks. This has given scientists a "boost" in drug discoveries making an augmented approaches in medicine. 
-
-
-
 ## Background
 
 Humans have approximately 25,000 individual genes. Each one of them encodes seperate proteins and that have a distinct functions. One of the functions are to maintain a stable cell growth, cell division, communcations between cells and maintaining cell integrity. These complex functions keep organisms alive and helps them to evolve.
