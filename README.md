@@ -71,5 +71,5 @@ If this project could be done (it would however take a really long time to achie
    https://github.com/aqlaboratory/proteinnet (code)
   https://www.nature.com/articles/d41586-020-03348-4
   
-
+ The code for protein folding using pything - https://github.com/aqlaboratory/proteinnet
 LICENSE to distribute this code - https://github.com/aqlaboratory/proteinnet/blob/master/LICENSE
